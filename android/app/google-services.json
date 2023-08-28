@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315457388292",
+    "project_id": "clone-78127",
+    "storage_bucket": "clone-78127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315457388292:android:7d2b51fdc0f97559c61a51",
+        "android_client_info": {
+          "package_name": "khuzaima.app.amazon_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315457388292-upcoqk51cbhcl5delf2verq454hrb2or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjlOcKlb4gWty9aZ2Kv3oyqWwYUulLQxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315457388292-upcoqk51cbhcl5delf2verq454hrb2or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
